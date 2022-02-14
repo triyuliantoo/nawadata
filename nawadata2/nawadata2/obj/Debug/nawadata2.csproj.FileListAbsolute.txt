@@ -1,0 +1,6 @@
+/Users/triyulianto/Projects/nawadata2/nawadata2/bin/Debug/nawadata2.exe
+/Users/triyulianto/Projects/nawadata2/nawadata2/bin/Debug/nawadata2.pdb
+/Users/triyulianto/Projects/nawadata2/nawadata2/obj/Debug/nawadata2.csproj.AssemblyReference.cache
+/Users/triyulianto/Projects/nawadata2/nawadata2/obj/Debug/nawadata2.csproj.CoreCompileInputs.cache
+/Users/triyulianto/Projects/nawadata2/nawadata2/obj/Debug/nawadata2.exe
+/Users/triyulianto/Projects/nawadata2/nawadata2/obj/Debug/nawadata2.pdb
